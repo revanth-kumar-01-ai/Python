@@ -117,9 +117,48 @@ def patternEighteen(n):
     for i in range(n-1, -1, -1):
         print(alphabet[i:n])
 
+def patternNineteen(n):
+    gap = 0
+    for i in range(n, 0, -1):
+        print(("*" * i) + (" " * gap) + ("*" * i))
+        gap += 2
+
+    for i in range(1, n+1):
+        gap -= 2
+        print(("*" * i) + (" " * gap) + ("*" * i))
+        
+
 def patternTwenty(n):
+    i = 1
+    direction = 1
+    gap = (n * 2) - 2
+    gapIter = -2
+    while i >= 1:
+        print(("*" * i) + (" " * gap) + ("*" * i))
+        if i == n:
+            direction = -1
+            gapIter = 2
+        i += direction
+        gap += gapIter
+
+
+def patternTwentyOne(n):
     for i in range(n):
-        pass
+        if i == 0 or i == (n - 1):
+            print("*" * n)
+        else:
+            print("*" + (" " * (n - 2)) + "*")
+
+
+def patternTwentyTwo(n):
+    size = (n - 1) + n
+    for i in range(size):
+        for j in range(size):
+            distance = min(i, j, size - 1 - i, size - 1 - j)
+            value = n - distance
+            print(value, end="")
+        print()
+
 
 # patternOne(5)
 # patternTwo(5)
@@ -139,7 +178,14 @@ def patternTwenty(n):
 # patternSixteen(5)
 # patternSeventeen(5)
 # patternEighteen(15)
-patternTwenty(5)
+# patternNineteen(10)
+# patternTwenty(10)
+# patternTwentyOne(10)
+patternTwentyTwo(3)
+
+
+
+
 
 
 
