@@ -167,22 +167,260 @@ def patternTwentyTwo(n):
 # patternFive(5)
 # patternSix(5)
 # patternSeven(5)
-# patternEight(6)
+# patternEight(5)
 # patternNine(5)
-# patternTen(6)
+# patternTen(5)
 # patternEleven(5)
-# patternTwelve(9)
+# patternTwelve(5)
 # patternThirteen(5)
-# patternFourteen(29)
+# patternFourteen(5)
 # patternFifteen(5)
 # patternSixteen(5)
 # patternSeventeen(5)
-# patternEighteen(15)
-# patternNineteen(10)
-# patternTwenty(10)
-# patternTwentyOne(10)
-patternTwentyTwo(3)
+# patternEighteen(5)
+# patternNineteen(5)
+# patternTwenty(5)
+# patternTwentyOne(5)
+# patternTwentyTwo(5)
 
+
+#  patternOne 
+
+
+
+# *****
+# *****
+# *****
+# *****
+# *****
+
+
+#  patternTwo 
+
+# *
+# **
+# ***
+# ****
+# *****
+
+
+#  patternThree 
+
+
+#  1
+#  12
+#  123
+#  1234
+#  12345
+
+
+#  patternFour 
+
+
+# 1
+# 22
+# 333
+# 4444
+# 55555
+
+
+#  patternFive
+
+
+# *****
+# ****
+# ***
+# **
+# *
+
+
+#  patternSix
+
+
+# 12345
+# 1234
+# 123
+# 12
+# 1
+
+
+#  patternSeven
+
+
+#      *
+#     ***
+#    *****
+#   *******
+#  *********
+
+
+#  patternEight
+
+
+#  *******
+#   *****
+#    ***
+#     *
+
+
+#  patternNine
+
+
+#      *
+#     ***
+#    *****
+#   *******
+#  *********
+#  *********
+#   *******
+#    *****
+#     ***
+#      *
+
+
+#  patternTen
+
+
+# *
+# **
+# ***
+# ****
+# *****
+# ****
+# ***
+# **
+# *
+
+
+#  patternEleven
+
+
+# 1
+# 0 1
+# 1 0 1
+# 0 1 0 1
+# 1 0 1 0 1
+
+
+#  patternTwelve
+
+
+# 1      1
+# 12    21
+# 123  321
+# 12344321
+
+
+#  patternThirteen
+
+
+# 1
+# 2 3
+# 4 5 6
+# 7 8 9 10
+# 11 12 13 14 15
+
+#  patternFourteen
+
+
+# A
+# AB
+# ABC
+# ABCD
+# ABCDE
+
+
+#  patternFifteen
+
+
+# ABCDE
+# ABCD
+# ABC
+# AB
+# A
+
+
+#  patternSixteen
+
+
+#  A
+#  BB
+#  CCC
+#  DDDD
+#  EEEEE
+
+
+#  patternSeventeen
+
+
+#       A
+#      ABA
+#     ABCBA
+#    ABCDCBA
+#   ABCDEDCBA
+
+
+#  patternEighteen
+
+
+# E
+# DE
+# CDE
+# BCDE
+# ABCDE
+
+
+#  patternNineteen
+
+
+# **********
+# ****  ****
+# ***    ***
+# **      **
+# *        *
+# *        *
+# **      **
+# ***    ***
+# ****  ****
+# **********
+
+
+#  patternTwenty
+
+
+# *        *
+# **      **
+# ***    ***
+# ****  ****
+# **********
+# ****  ****
+# ***    ***
+# **      **
+# *        *
+
+
+#  patternTwentyOne
+
+
+# *****
+# *   *
+# *   *
+# *   *
+# *****
+
+
+#  patternTwentyTwo
+
+
+# 555555555
+# 544444445
+# 543333345
+# 543222345
+# 543212345
+# 543222345
+# 543333345
+# 544444445
+# 555555555
 
 
 
