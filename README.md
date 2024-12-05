@@ -25,7 +25,7 @@ I've completed 7 basic programs in Python, enhancing my problem-solving and logi
 
 ## Basic Recursion problems 
 
-<kbd>[Basic](https://github.com/revanth-kumar-01-ai/Python/tree/main/B-Own%20Task/3.Recursion)</kbd>
+<kbd>[Recursion](https://github.com/revanth-kumar-01-ai/Python/tree/main/B-Own%20Task/3.Recursion)</kbd>
 
 I've completed 5 basic recursion programs in Python, enhancing my problem-solving and logical thinking skills.
 
