@@ -52,5 +52,5 @@ I've completed 3 sorting programs  in Python, enhancing my problem-solving and l
 
 You can explore the code for these algorithms in the link below:
 
-[**Sort Algorithm Programs**](https://github.com/revanth-kumar-01-ai/Python/blob/main/B-Own%20Task/1.Pattern/5.Sorting.py)
+[**Sort Algorithm Programs**](https://github.com/revanth-kumar-01-ai/Python/tree/main/B-Own%20Task/5.Sorting)
 
