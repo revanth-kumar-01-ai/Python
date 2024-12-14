@@ -1,13 +1,13 @@
 # Python Coding Journey
 
-I am on a mission to complete 400 programs. Currently, I have completed 44 programs and have **356 programs** remaining to reach my goal.
+I am on a mission to complete 400 programs. Currently, I have completed 57 programs and have **343 programs** remaining to reach my goal.
 
 ### Progress 400
-![](https://geps.dev/progress/9?dangerColor=800000&warningColor=ff9900&successColor=006600)
+![](https://geps.dev/progress/14?dangerColor=800000&warningColor=ff9900&successColor=006600)
 
 ### Current Status  
-- **Completed**: 44 Programs  
-- **Remaining**: 356 Programs
+- **Completed**: 57 Programs  
+- **Remaining**: 343 Programs
 
 # Basic Programs 
 <br>
@@ -69,3 +69,12 @@ I've completed 4 sorting programs  in Python, enhancing my problem-solving and l
 You can explore the code for these algorithms in the link below:
 
 [**Sort Algorithm Programs**](https://github.com/revanth-kumar-01-ai/Python/tree/main/B-Own%20Task/6.SortingTwo)
+
+
+# Problems on Arrays [Easy -> Medium -> Hard] 
+
+## Easy
+
+I've completed 13 sorting programs  in Python, enhancing my problem-solving and logical thinking skills.
+
+[**Easy**](https://github.com/revanth-kumar-01-ai/Python/tree/main/B-Own%20Task/7.ArrayEasy)
